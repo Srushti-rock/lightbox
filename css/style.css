@@ -1,0 +1,34 @@
+
+.red-box{
+    width: 20%;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+   background-color: red; 
+}
+.green-box{
+    width: 20%;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+   background-color:green;
+}
+.blue-box{
+    width: 20%;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+   background-color:blue;
+}
+
+.lightbox{
+    width: 100%;
+    height: 420px;
+    display: none;
+    background-color: orange;
+    text-align: center;
+    position: relative;
+    bottom: 180px;
+    padding-top: 100px;
+    opacity: 0.8;
+}
